@@ -14,7 +14,7 @@ Here we gonna discuss about the offline queries using following methods:
 * Mo's Algorithm
 * Sparse Table
 
-**Prefix Array*
+**Prefix Array**
 Suppose we want to compute a function F(L,R) for subarray A[L...R] of an array A.
 If we can write F(L,R)=F(1...R) @ F(1...L-1) where @ can be any operator(+,-,x,^,& ...etc), then we can preprocess A to compute prefix funtion p(i)=F(1...i) for all i and use prefix funtion p(1...N) to compute F(L,R) in constant time using.
 
