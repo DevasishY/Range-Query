@@ -20,3 +20,6 @@ If we can write F(L,R)=F(1...R) @ F(1...L-1) where @ can be any operator(+,-,x,^
 
 **F(L,R)=p(R) @ p(L-1)**
 
+Take Away:
+* we can use prefix sum technique for range based query involving sum, multiplication(excluding "0"), Xor operations.
+
