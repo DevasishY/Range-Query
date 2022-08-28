@@ -11,5 +11,5 @@ Comming to difference between offline and online Range Queries problems is that 
 Here we gonna discuss about the offline queries using following methods:
 * Prefix Sum
 * Square Root Decomposition
-* MO's Algorithm
+* Mo's Algorithm
 * Sparse Table
