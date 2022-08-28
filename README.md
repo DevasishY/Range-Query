@@ -1,1 +1,1 @@
-# Mo-s-Algo
+# Range Query
